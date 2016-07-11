@@ -1,8 +1,7 @@
 El Proyecto
 ===========
 
-Descripción General
--------------------
+**Descripcion General**
 
 La aplicacion en general contara con tres tipos de usuarios: usuarios comunes,
 usuarios artistas y usuarios administradores
@@ -29,14 +28,13 @@ actividades segun crea necesario, crear actividades organizadas por la propia ca
 cultura, calendarizar las capsulas informativas que recibiran los demas usuarios y
 un acceso a los reportes y estadisticas con la informacion que la aplicacion recaudara.
 
-
 Modulos
-^^^^^^^
+-------
 
-  diagrama de caso de uso: :ref:`ref_vistaGeneral`.
+  Diagrama de caso de uso: :ref:`ref_vistaGeneral`
 
-Actividades:
-************
+Actividades
+***********
   Se encarga de mostrar a los usuarios las actividades proximas a realizarse en forma de cartelera,
   visualizando el nombre, descripcion, imagen promocional, lugar, fecha, hora, artistas que participen,
   tematica, precio de entradas.
@@ -45,10 +43,10 @@ Actividades:
   y permitir la creacion (o cancelacion) de nuevas actividades por parte de un artista o administrador,
   cada actividad nueva creada no se publicara hasta que un administrador lo autorize.
 
-  diagrama de caso de uso: :ref:`ref_actividades`.
+  Diagrama de caso de uso: :ref:`ref_actividades`
 
-Artistas:
-*********
+Artistas
+********
   Accesible para todo los usuarios, permite visualizarlo a los artistas registrados en forma de directorio
   y contara con la capacidad de buscar y filtrarlos por nombre o tematica cultural en la que trabajen.
 
@@ -58,32 +56,32 @@ Artistas:
 
   Un artista no sera mostrado en el directorio hasta que su registro sea autorizado por un administrador.
 
-  diagrama de caso de uso: :ref:`ref_artistas`.
+  Diagrama de caso de uso: :ref:`ref_artistas`
 
-Capsulas Informativas:
-**********************
+Capsulas Informativas
+*********************
   Su funcion es la de mostrar informacion educativa cultural a los usuarios comunes, y permitir
   a los administradores del sistema calendarizar las que se mostraran en las proximas fechas.
 
-  diagrama de caso de uso: :ref:`ref_capsulas`.
+  Diagrama de caso de uso: :ref:`ref_capsulas`
 
-Administracion de Artistas y Eventos:
-*************************************
+Administracion de Artistas y Eventos
+************************************
   Se encarga de moderar tanto a artistas como eventos, autorizar o denegar el registro de un artista, autorizar la
   publicacion de una actividad o retirarla si fuera necesario.
 
-  diagrama de caso de uso: :ref:`ref_adminArtEven`.
+  Diagrama de caso de uso: :ref:`ref_adminArtEven`
 
-Administracion de Cuentas:
-**************************
+Administracion de Cuentas
+*************************
   Se encarga de manejar las distintas cuentas de usuario creadas, tendra las acciones de eliminar artista,
   crear nuevo usuario administrador, modificar contraseñas y datos de cualquier cuenta.
 
-  diagrama de caso de uso: :ref:`ref_cuentas`.
+  Diagrama de caso de uso: :ref:`ref_cuentas`
 
-Estadisticas de Uso:
-********************
+Estadisticas de Uso
+*******************
   Una seccion de generacion de reportes con toda la informacion que se recopile con el uso de los
   demas usuarios, es utilizado por el administrador
 
-  diagrama de caso de uso: :ref:`ref_estadisticas`.
+  Diagrama de caso de uso: :ref:`ref_estadisticas`

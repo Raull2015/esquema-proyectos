@@ -1,12 +1,9 @@
 .. Documentación de proyecto "Nombre" documentation master file, created by
-   sphinx-quickstart on Wed Jun 29 13:49:37 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
 
-Bienvenido a la documentación de "Nombre"
-=========================================
+Documentación del proyecto Casa de Cultura
+==========================================================
 
-Contenido:
+Contenidos:
 
 .. toctree::
    :maxdepth: 2
@@ -15,11 +12,3 @@ Contenido:
    proyecto
    disenio
    tiempos
-
-
-Indices y tablas
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

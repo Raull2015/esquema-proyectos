@@ -5,57 +5,57 @@ Casos de Uso
 ------------
 
  .. _ref_vistaGeneral:
- 
-Vista General:
-**************
+
+Vista General
+*************
 
   .. figure:: diagramaCasosdeUso/vistaGeneral.png
    :align:  center
 
  .. _ref_actividades:
 
-Actividades:
-************
+Actividades
+***********
 
   .. figure:: diagramaCasosdeUso/actividades.png
    :align:  center
 
  .. _ref_artistas:
 
-Artistas:
-*********
+Artistas
+********
 
   .. figure:: diagramaCasosdeUso/artistas.png
    :align:  center
 
  .. _ref_capsulas:
 
-Capsulas Informativas:
-**********************
+Capsulas Informativas
+*********************
 
   .. figure:: diagramaCasosdeUso/capsulas.png
    :align:  center
 
  .. _ref_adminArtEven:
 
-Administracion de Artistas y Eventos:
-*************************************
+Administracion de Artistas y Eventos
+************************************
 
   .. figure:: diagramaCasosdeUso/administrarArtistas-Eventos.png
    :align:  center
 
  .. _ref_cuentas:
 
-Administracion de Cuentas:
-**************************
+Administracion de Cuentas
+*************************
 
   .. figure:: diagramaCasosdeUso/administrarCuentas.png
    :align:  center
 
  .. _ref_estadisticas:
 
-Estadisticas de Uso:
-********************
+Estadisticas de Uso
+*******************
 
   .. figure:: diagramaCasosdeUso/estadisticas.png
    :align:  center
@@ -69,4 +69,5 @@ Diagramas de clases y de sus distintas actividades, si fuese necesario.
 Diagrama de BD
 --------------
 
-Diagrama de la Base de Datos que requerirá el software.
+.. figure:: diagramadeBD/basededatos.png
+ :align:  center

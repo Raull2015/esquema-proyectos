@@ -4,7 +4,7 @@ Proyecto Casa de la Cultura
 Breve historia del proyecto
 ---------------------------
 
-La iniciativa de la creacion de este proyecto nace de la divisios de gestion
+La iniciativa de la creacion de este proyecto nace de la division de gestion
 de proyectos de la casa de cultura de Quetzaltenango, a cargo de Ernesto Turcios
 como parte de los procesosde modernizacion y reestructuracion que estan llevando
 a cabo.
@@ -46,7 +46,17 @@ el departamento y servir como herramienta en la toma de desiciones relacionadas
 Objetivos del proyecto
 ----------------------
 
-* Llegar a ser usada por al menos 5000 usuarios en promedio durante el primer año de vida
+* Asegurarse que todo usuario comun pueda acceder en no mas de pocos segundos al directorio de actividades.
 
-* Incrementar la participacion de la poblacion en actividades culturales en un 20% al final
-  de su primer año de vida
+* Crear y publicar una actividad debe ser un proceso intuitivo, facil y poder ser completado en un maximo de 10 minutos
+
+* El proceso de validacion de una actividad o artista por un administrador no debe ser mas complejo que presionar
+  un simple click.
+
+* Publicar un comentario en una actividad no debe ser restringido por la cantidad de caracteres maxima.
+
+* El perfil de un Artista debe ser sencillo de entender y sin ninguna distraccion de la informacion crucial
+
+* Alertar si no existe ninguna capsula informativa ya programada para los proximos 3 dias
+
+* Ofrecer una gran cantidad de parametros en la generacion de reportes estadisticos

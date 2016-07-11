@@ -16,8 +16,24 @@ ejemplo, el análisis, la implementación, capacitaciones, etc.
 Entregables
 -----------
 
-Se listan y se describen cada uno de los elementos que se entregarán al final
-del proyecto, como código fuente, manuales, etc.
+* Aplicacion compilada y lista para ejecutar:
+  La aplicacion compilada con todos sus modulos, lista para ser publicada y descargada
+  por los usuarios finales
+
+* Codigo fuente y su documentacion tecnica
+  El codigo fuente de la aplicacion, junto a su documentacion especifica para que en un
+  futuro pueda ser modificada, ya sea por este mismo equipo o por uno ajeno.
+
+* Analisis y explicacion del proyecto:
+  El documento que esta leyendo
+
+* Manual de usuario
+  Una manual que describe mas especificamente y paso a paso todas las acciones que puede
+  realizar un usuario comun.
+
+* Manual de administrador
+  Un manual que describe detalladamente todas las acciones que puede realizar el administrador,
+  el paso a paso, las consideraciones, advertencias y condiciones para cada acción.
 
 Tabla de tiempos y costos
 -------------------------

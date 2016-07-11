@@ -30,7 +30,7 @@ import os
 # ones.
 extensions = [
     'sphinx.ext.todo',
-    'sphinx.ext.mathjax',
+    'rst2pdf.pdfbuilder',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'Documentación de proyecto final AD2'
-copyright = u'2016, Raul Alessandro Espinoza Ardinao'
+copyright = u'2016, Raul Alessandro Espinoza Ardiano'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -206,7 +206,7 @@ latex_elements = {
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
   ('index', 'DocumentacionProyectoAD2.tex', u'Documentación de proyecto AD2',
-   u'Raul Espinoza', 'Manual',False),
+   u'Raul Espinoza', 'Manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -251,7 +251,7 @@ man_pages = [
 texinfo_documents = [
   ('index', 'DocumentacionProyectoAD2', u'Documentación de proyecto AD2',
    u'Raul Espinoza', 'Documentacion Proyecto AD2', 'Manual de creacion',
-   'Manual',False),
+   'Manual'),
 ]
 
 # Documents to append as an appendix to all manuals.
@@ -265,3 +265,25 @@ texinfo_documents = [
 
 # If true, do not generate a @detailmenu in the "Top" node's menu.
 #texinfo_no_detailmenu = False
+
+pdf_documents = [
+('index', u'Documentacion Proyecto AD2', u'Documentacion Proyecto Casa de Cultura', u'Raul Espinoza'),
+]
+
+# A comma-separated list of custom stylesheets. Example:
+#pdf_stylesheets = ['sphinx','kerning','a4']
+
+
+# A list of folders to search for stylesheets. Example:
+#pdf_style_path = ['.', '_styles']
+
+# How many levels deep should the table of contents be?
+#pdf_toc_depth = 9999
+
+
+# Add section number to section references
+#pdf_use_numbered_links = False
+
+
+# Background images fitting mode
+#pdf_fit_background_mode = 'scale'
