@@ -64,7 +64,8 @@ Estadisticas de Uso
 Clases
 ------
 
-Diagramas de clases y de sus distintas actividades, si fuese necesario.
+.. figure:: diagramadeClase/clases.png
+ :align:  center
 
 Diagrama de BD
 --------------

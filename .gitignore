@@ -4,3 +4,4 @@
 *.db
 *.in
 build/*
+archivos/*

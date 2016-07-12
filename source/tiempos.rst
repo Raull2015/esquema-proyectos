@@ -16,20 +16,20 @@ ejemplo, el análisis, la implementación, capacitaciones, etc.
 Entregables
 -----------
 
-* Aplicacion compilada y lista para ejecutar:
-  La aplicacion compilada con todos sus modulos, lista para ser publicada y descargada
+* Aplicación compilada y lista para ejecutar:
+  La aplicación compilada con todos sus módulos, lista para ser publicada y descargada
   por los usuarios finales
 
-* Codigo fuente y su documentacion tecnica
-  El codigo fuente de la aplicacion, junto a su documentacion especifica para que en un
+* Código fuente y su documentación técnica
+  El código fuente de la aplicación, junto a su documentación especifica para que en un
   futuro pueda ser modificada, ya sea por este mismo equipo o por uno ajeno.
 
-* Analisis y explicacion del proyecto:
+* Análisis y explicación del proyecto:
   El documento que esta leyendo
 
 * Manual de usuario
-  Una manual que describe mas especificamente y paso a paso todas las acciones que puede
-  realizar un usuario comun.
+  Una manual que describe más específicamente y paso a paso todas las acciones que puede
+  realizar un usuario común.
 
 * Manual de administrador
   Un manual que describe detalladamente todas las acciones que puede realizar el administrador,

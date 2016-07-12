@@ -4,26 +4,27 @@ Proyecto Casa de la Cultura
 Breve historia del proyecto
 ---------------------------
 
-La iniciativa de la creacion de este proyecto nace de la division de gestion
+La iniciativa de la creación de este proyecto nace de la división de gestión
 de proyectos de la casa de cultura de Quetzaltenango, a cargo de Ernesto Turcios
-como parte de los procesosde modernizacion y reestructuracion que estan llevando
+como parte de los procesos de modernización y reestructuración que están llevando
 a cabo.
 
 En Quetzaltenango ocurren casi diariamente actividades culturales y hasta el
-momento no existe ningun forma en que la casa de la cultura pueda llevar un registro
+momento no existe ningún forma en que la casa de la cultura pueda llevar un registro
 total de ellas, el proyecto pretende automatizar la toma de datos de las actividades,
-conocer las tendencias y al mismo tiempo dar a artistas quetzaltecos un espacio donde
+conocer las tendencias y al mismo tiempo dar a artistas quezaltecos un espacio donde
 promocionarse.
 
-El analisis y construccion de la aplicacion esta a cargo de los alumnos de 4to. Año
-de Ingenieria en Informatica y Sistemas de la universidad Rafael Landivar.
+El análisis y construcción de la aplicación está a cargo de los alumnos de 4to. Año
+de Ingeniería en Informática y Sistemas de la universidad Rafael Landívar.
 
-La aplicacion es un directorio de artistas y eventos culturales quetzaltecos de todo tipo,
-permite a toda persona que posea la aplicacion obtener informacion no solo de las actividades
-culturales proximas sino tambien de los artistas que participen en ella, actuando como
-un difusor de informacion todo artista Quetzalteco (o no) puede utilizarla para darse a
-conocer, siendo su mayor utilidad la capacidad para recaudar datos y generar estadisticas
-sobre los intereses culturales de la ciudad, informacion muy util para la casa de cultura
+La aplicación es un directorio de artistas y eventos culturales quezaltecos de todo tipo,
+permite a toda persona que posea la aplicación obtener información no solo de las actividades
+culturales próximas sino también de los artistas que participen en ella, actuando como
+un difusor de información todo artista Quezalteco (o no) puede utilizarla para darse a
+conocer, siendo su mayor utilidad la capacidad para recaudar datos y generar estadísticas
+sobre los intereses culturales de la ciudad, información muy útil para la casa de cultura
+
 
 
 Casa de Cultura de la Municipalidad de Quetzaltenango
@@ -40,23 +41,23 @@ Misión del proyecto
 -------------------
 
 Obtener información fiable y coherente de toda actividad cultural ocurrida en
-el departamento y servir como herramienta en la toma de desiciones relacionadas
+el departamento y servir como herramienta en la toma de decisiones relacionadas
 
 
 Objetivos del proyecto
 ----------------------
 
-* Asegurarse que todo usuario comun pueda acceder en no mas de pocos segundos al directorio de actividades.
+* Asegurarse que todo usuario común pueda acceder en no más de pocos segundos al directorio de actividades.
 
-* Crear y publicar una actividad debe ser un proceso intuitivo, facil y poder ser completado en un maximo de 10 minutos
+* Crear y publicar una actividad debe ser un proceso intuitivo, fácil y poder ser completado en un máximo de 10 minutos
 
-* El proceso de validacion de una actividad o artista por un administrador no debe ser mas complejo que presionar
-  un simple click.
+* El proceso de validación de una actividad o artista por un administrador no debe ser más complejo que presionar
+  un simple clic.
 
-* Publicar un comentario en una actividad no debe ser restringido por la cantidad de caracteres maxima.
+* Publicar un comentario en una actividad no debe ser restringido por la cantidad de caracteres máxima.
 
-* El perfil de un Artista debe ser sencillo de entender y sin ninguna distraccion de la informacion crucial
+* El perfil de un Artista debe ser sencillo de entender y sin ninguna distracción de la información crucial
 
-* Alertar si no existe ninguna capsula informativa ya programada para los proximos 3 dias
+* Alertar si no existe ninguna capsula informativa ya programada para los próximos 3 días
 
-* Ofrecer una gran cantidad de parametros en la generacion de reportes estadisticos
+* Ofrecer una gran cantidad de parámetros en la generación de reportes estadísticos
