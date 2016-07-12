@@ -25,8 +25,6 @@ un difusor de información todo artista Quezalteco (o no) puede utilizarla para 
 conocer, siendo su mayor utilidad la capacidad para recaudar datos y generar estadísticas
 sobre los intereses culturales de la ciudad, información muy útil para la casa de cultura
 
-
-
 Casa de Cultura de la Municipalidad de Quetzaltenango
 -----------------------------------------------------
 
@@ -40,9 +38,9 @@ puede actuar como asesor.
 Misión del proyecto
 -------------------
 
-Obtener información fiable y coherente de toda actividad cultural ocurrida en
-el departamento y servir como herramienta en la toma de decisiones relacionadas
-
+Servir como herramienta en la toma de desiciones que realize la casa de la cultura,
+obteniendo informacion fiable y coherente de toda actividad cultural ocurrida en el departamente
+de Quetzaltenango
 
 Objetivos del proyecto
 ----------------------

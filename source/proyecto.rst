@@ -9,9 +9,9 @@ usuarios artistas y usuarios administradores
 De cara a los usuarios comunes su función es la de ser una agenda de actividades
 culturales que ocurran en la ciudad de Quetzaltenango y de los artistas que participen,
 mostrando una cronología de fechas, permitiendo filtrarlas por temática, con opción
-a dejar reseñas en alguna actividad, puntuarlas, siendo notificados de alguna que le
-interese, también permite buscar y consultar perfiles de artistas, además de recibir
-contenido educativo en forma de capsulas informativas sobre temas de interés cultural
+a dejar reseñas en alguna actividad, puntuarlas, también permite buscar y consultar
+perfiles de artistas, además de recibir contenido educativo en forma de capsulas
+informativas sobre temas de interés cultural.
 
 Dirigido hacia los Artistas, además de las funciones que tiene el público común,
 la aplicación permite que puedan crear un perfil con sus datos, el perfil necesita
