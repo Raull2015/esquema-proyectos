@@ -12,8 +12,8 @@ ya completados, sugerir mejoras o expresar inconformidades, que se tomaran en cu
 para la siguiente iteración.
 
 Que ventajas ofrece:
- * Como cliente no tendrá que esperar hasta el final del desarrollo para tener un contacto
- directo con la aplicación
+
+ * Como cliente no tendrá que esperar hasta el final del desarrollo para tener un contacto directo con la aplicación
  * Se pueden aplicar mejoras o cambios sin retrasar de forma excesiva el desarrollo
  * Las entregas son consistentes y puntuales
 
@@ -23,9 +23,10 @@ Actividades a realizar
 Las actividades a realizar son
 
 * Etapa de inicialización
+
   * Primera Comunicación
   * Toma de requisitos
-  * Análisis y planeación de la aplicación <= etapa actual
+  * Análisis y planeación de la aplicación
   * Diseño y modelado de la aplicación
   * Desarrollo de la versión de la aplicación preliminar
   * Primera etapa de control y retroalimentación con cliente
@@ -33,10 +34,12 @@ Las actividades a realizar son
   Como consecuencia del modelo siendo utilizado esta primera etapa es la más tardada
 
 * Iteración
+
   * Rediseño(de ser necesario) en base a la retroalimentación con el cliente
   * Implementación de los siguientes módulos y características planeados
 
 * Control y retroalimentación
+
   * Etapa de control y retroalimentación con cliente
   * Vuelta a la etapa de iteración hasta que la aplicación este completa al 100%
 
@@ -48,7 +51,7 @@ en la sección :ref:`ref_tiempo`
 Entregables
 -----------
 
-* Aplicación compilada y lista para ejecutar:
+* Aplicación compilada y lista para ejecutar
   La aplicación compilada con todos sus módulos, lista para ser publicada y descargada
   por los usuarios finales
 
@@ -79,6 +82,6 @@ Condiciones
 -----------
 
 * Para que la aplicación pueda ser publicada en tiendas de aplicaciones online (Google Play Store, Apple Store)
-es necesario contar con cuentas autorizadas en cada tienda, cuyos costos correrán a cargo del cliente.
+  es necesario contar con cuentas autorizadas en cada tienda, cuyos costos correrán a cargo del cliente.
 
 * Los servicios y costos de host para la aplicación corren a cuenta del cliente.
