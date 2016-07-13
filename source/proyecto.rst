@@ -1,7 +1,8 @@
 El Proyecto
 ===========
 
-**Descripcion General**
+Descripcion General
+-------------------
 
 La aplicación en general contara con tres tipos de usuarios: usuarios comunes,
 usuarios artistas y usuarios administradores
